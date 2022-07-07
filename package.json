@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-1a-matematicas",
+  "version": "1.0.0",
+  "description": "Proyecto de matematicas sencillo para aprender nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopezgjoseantonio2/proyecto-1a-matematicas.git"
+  },
+  "keywords": [
+    "math",
+    "matematica",
+    "suma",
+    "resta",
+    "disvision",
+    "multiplicacion"
+  ],
+  "author": "Jose Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lopezgjoseantonio2/proyecto-1a-matematicas/issues"
+  },
+  "homepage": "https://github.com/lopezgjoseantonio2/proyecto-1a-matematicas#readme"
+}
